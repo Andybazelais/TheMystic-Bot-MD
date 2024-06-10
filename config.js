@@ -7,8 +7,8 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "19804801076"
+global.confirmCode = "19804801076"
 
 global.owner = [
   ['5219992095479', '👑 Mystic - Creador 👑', true],
